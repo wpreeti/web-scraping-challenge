@@ -4,9 +4,8 @@ In this challenge we identify HTML elements on a page, identify their id and cla
 
 Problem details
 
-Deliverable 1: Scrape titles and preview text from Mars news articles.
 
-Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
+
 
 Part 1: Scrape Titles and Preview Text from Mars News
 
@@ -50,6 +49,7 @@ Activate conda dev enrivornment from the bash
 Launch Jupter from Anaconda Navigator
 Open "part_1_mars_news.ipynb"
 Run all cells
+
 Part 2: Scrape and Analyze Mars Weather Data
 
 Activate conda dev enrivornment from the bash
@@ -57,3 +57,7 @@ Launch Jupter from Anaconda Navigator
 Open "part_2_mars_weather.ipynb"
 Run all cells
 "mars_weather.csv" is located under output folder
+
+Deliverable 1: Scrape titles and preview text from Mars news articles.
+
+Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
